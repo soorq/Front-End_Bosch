@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1222" height="903" fill="none">
+	<mask id="a" width="1222" height="903" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+		<rect width="1221" height="902" x=".5" y=".5" fill="#0E1330" stroke="#282D45" rx="9.5" />
+	</mask>
+	<g mask="url(#a)">
+		<g filter="url(#b)">
+			<circle cx="112.5" cy="83.5" r="98.5" fill="#7214FF" />
+		</g>
+		<g filter="url(#c)">
+			<circle cx="1083" cy="772" r="86" fill="#32CAFD" />
+		</g>
+	</g>
+	<defs>
+		<filter id="b" width="1197" height="1197" x="-486" y="-515" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+			<feGaussianBlur result="effect1_foregroundBlur_125_4152" stdDeviation="250" />
+		</filter>
+		<filter id="c" width="1172" height="1172" x="497" y="186" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+			<feGaussianBlur result="effect1_foregroundBlur_125_4152" stdDeviation="250" />
+		</filter>
+	</defs>
+</svg>
